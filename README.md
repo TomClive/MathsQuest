@@ -1,6 +1,6 @@
 # Maths Quest - S1 Revision 🚀
 
-An interactive, browser-based revision game built for S1 (Year 7) Mathematics. Designed to make studying the Summer Exam Revision Pack fun and engaging!
+An interactive, browser-based revision game built for S1 Mathematics. Designed to make studying the Summer Exam Revision Pack fun and engaging!
 
 ## Features 🎮
 - **Topic Map:** 10 "worlds" covering numeracy, algebra, geometry, and statistics.
